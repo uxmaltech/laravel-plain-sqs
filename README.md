@@ -21,7 +21,7 @@ But in certain cases you may want to parse messages from third party application
 To install simply run:
 
 ```
-composer require dusterio/laravel-plain-sqs
+composer require uxmaltech/laravel-plain-sqs
 ```
 
 Or add it to `composer.json` manually:
@@ -29,7 +29,7 @@ Or add it to `composer.json` manually:
 ```json
 {
     "require": {
-        "dusterio/laravel-plain-sqs": "~0.1"
+        "uxmaltech/laravel-plain-sqs": "~0.1"
     }
 }
 ```
